@@ -1,0 +1,8 @@
+bin/
+obj/
+dataset/
+model.zip
+*.zip
+*.dll
+*.so
+*.dylib
